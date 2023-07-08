@@ -23,6 +23,13 @@ The Student Management System is a full-stack web application designed to provid
 - Learn about the MVC architecture and how various components are connected.
 - How Object Relation Mapping(ORM) works.
 - The need of having optimized code
-- How to connect front end with backend 
+- How to connect front end with backend
+
+- ## Way forward
+
+- Add email validation
+- Create a registration and login page with user authentication
+- Add more information such as id, contact details etc.
+
 
 
