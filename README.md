@@ -16,6 +16,7 @@ The Student Management System is a full-stack web application designed to provid
 
 ## Project Video
 
+https://github.com/rajmanav1902/Student-Management-System/assets/90973631/df257a83-b23f-4359-96dd-18d507268f27
 [Link to Project Video]
 
 ## Learnings
