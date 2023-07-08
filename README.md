@@ -16,7 +16,7 @@ The Student Management System is a full-stack web application designed to provid
 
 ## Project Video
 
-[Link to Project Video](project_video_link_here)
+[Link to Project Video]
 
 ## Learnings
 - Learn about the MVC architecture and how various components are connected.
@@ -24,7 +24,7 @@ The Student Management System is a full-stack web application designed to provid
 - The need of having optimized code
 - How to connect front end with backend
 
-- ## Way forward
+## Way forward
 - Add email validation
 - Create a registration and login page with user authentication
 - Add more information such as id, contact details etc.
